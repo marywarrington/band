@@ -2,7 +2,9 @@
   float: right;
   width: 30%;
   background-color: #0b8d6f;
-  opacity: .5;
+  border: 2px solid magenta;
+  padding-left: 10px;
+  margin: 25px;
 }
 
 img {
@@ -10,6 +12,7 @@ img {
   max-width: 500px;
   clear:both;
   margin-top: 30px;
+  padding: 20px;
 }
 
 .copy {
